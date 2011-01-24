@@ -1,0 +1,5 @@
+   This is a simple function that edits valid IP addresses in the usual
+visual format we're used to.
+   It can be used in programs user interfaces.
+   The code example also shows how to deal with a configuration Lua table in
+a config file.
